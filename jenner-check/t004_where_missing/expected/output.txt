@@ -1,0 +1,9 @@
+
+  Obs  orauid       bdate  sex          educ    hiredate  termdate  ddate  age_at_first_hired
+-----  ------  ----------  ---  ------------  ----------  --------  -----  ------------------
+    1  A0005   01/01/1999  M    Grade school  06/15/2005         .      .                 6.5
+
+  Obs  orauid       bdate  sex          educ    hiredate  termdate  ddate  age_at_first_hired
+-----  ------  ----------  ---  ------------  ----------  --------  -----  ------------------
+    1  A0005   01/01/1999  M    Grade school  06/15/2005         .      .                 6.5
+

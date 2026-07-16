@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_multi_where",
+  "source_file": "Homework3.sas",
+  "source_blob_sha": "c84b6da2fcb3bd916601c4de8de90ce594aed61d",
+  "source_commit": "284d92eeaecfc8d3cc086297cc15b59e09e30b18",
+  "notes": "Adapted from exercises 2d-2e: combining WHERE clauses across an OR of two condition groups, then contrasting OR vs AND across two SAS date-literal comparisons on the same field pair. Unmodified other than sourcing MDFACWnew from inline data and reading dates via separate INFORMAT statements."
+}

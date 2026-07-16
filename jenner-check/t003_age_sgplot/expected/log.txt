@@ -1,0 +1,42 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260715T062217Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA MDFACW
+
+NOTE: Processing inline DATALINES (12 lines)
+
+NOTE: Read 12 rows from DATALINES.
+NOTE: Wrote MDFACW (12 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA MDFACW
+
+
+NOTE: Read 12 rows from MDFACW.
+NOTE: Wrote MDFACW (12 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA MDFACW
+
+
+NOTE: Read 12 rows from MDFACW.
+NOTE: Wrote MDFACW (12 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SGPLOT data=MDFACW
+
+NOTE: PROC SGPLOT output written to: ./ods_output/sgplot.svg
+NOTE: DATA agebox
+
+
+NOTE: Read 12 rows from MDFACW.
+NOTE: Wrote agebox (24 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SGPLOT data=agebox
+
+NOTE: PROC SGPLOT output written to: ./ods_output/sgplot1.svg

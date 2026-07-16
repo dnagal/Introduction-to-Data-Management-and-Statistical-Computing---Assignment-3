@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_date_diff",
+  "source_file": "Homework3.sas",
+  "source_blob_sha": "c84b6da2fcb3bd916601c4de8de90ce594aed61d",
+  "source_commit": "284d92eeaecfc8d3cc086297cc15b59e09e30b18",
+  "notes": "Adapted from exercises 2a-2c: flagging hiredate>termdate records, building a diff-from-a-fixed-date column via INPUT(...,MMDDYY10.) on a character literal, and filtering with a SAS date literal (\"15SEP1999\"d). Original 2a/2c PROC MEANS statements use the same invalid bare NOOBS option as t004 and are left out. Reads date fields via separate INFORMAT statements matching the original script's own idiom."
+}
