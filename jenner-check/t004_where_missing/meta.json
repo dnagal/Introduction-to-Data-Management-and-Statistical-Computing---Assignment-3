@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_where_missing",
+  "source_file": "Homework3.sas",
+  "source_blob_sha": "c84b6da2fcb3bd916601c4de8de90ce594aed61d",
+  "source_commit": "284d92eeaecfc8d3cc086297cc15b59e09e30b18",
+  "notes": "Adapted from exercises 1b-1e: WHERE-filtered PROC PRINT pair contrasting age_dth<15 handling with/without an explicit 'ne .' missing-value guard, plus the educformat PROC FORMAT on the PRINT listing. Original exercises 1b/1c PROC MEANS statements use a bare NOOBS option (a PROC PRINT option, invalid for PROC MEANS -- SAS 9.4 rejects it too); left out rather than silently corrected. Reads date fields via separate INFORMAT statements matching the original script's own idiom."
+}

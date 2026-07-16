@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_age_sgplot",
+  "source_file": "Homework3.sas",
+  "source_blob_sha": "c84b6da2fcb3bd916601c4de8de90ce594aed61d",
+  "source_commit": "284d92eeaecfc8d3cc086297cc15b59e09e30b18",
+  "notes": "Adapted from exercise 1a: age_at_first_hired / age_dth derivations, the stack-two-measures-into-one-variable pattern feeding PROC SGPLOT's vbox, and both PROC SGPLOT calls (histogram + vbox), unmodified from the original other than sourcing MDFACW from inline data. Reads date fields via separate INFORMAT statements (matching the original script's own idiom) rather than repeated inline informats in the INPUT list, after discovering the latter triggers a Jenner list-input parsing bug on repeated named informats (already filed and merged upstream in EastAgile/jenner-language as PR #14884; not re-filed here)."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_format_freq",
+  "source_file": "Homework3.sas",
+  "source_blob_sha": "c84b6da2fcb3bd916601c4de8de90ce594aed61d",
+  "source_commit": "284d92eeaecfc8d3cc086297cc15b59e09e30b18",
+  "notes": "Adapted from exercises 3-4: the educformat and $cvsformat PROC FORMAT VALUE lists and the two PROC FREQ calls that apply them, unmodified from the original other than sourcing MDFACW from a small inline sample."
+}
